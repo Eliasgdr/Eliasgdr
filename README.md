@@ -27,10 +27,10 @@ A project where my teammates and I explored the intricacies of image manipulatio
 In this project, I implemented a 2D elastic simulation using C++. The simulation showcased my proficiency in both theoretical understanding and practical application of physics concepts in programming. The result? A visually engaging and accurate elastic simulation that can support thousands of objects in real time.
 
 ## 🌱 Next Project
-Currently, I'm diving into the exciting world of machine learning using Python. My upcoming project involves remaking a simple game and utilizing PyTorch to create the perfect bot for it. I'm thrilled about the endless possibilities that machine learning offers, and this project is just the beginning of my exploration.
+Currently, I'm diving into the exciting world of 3D rendering, building a simple 3D renderer in C++ with SDL, focusing on 3D transformations, perspective projection, and efficient rendering techniques.
 
 ## 🤔 Interests
-While I have a budding interest in machine learning and big data, I'm still exploring the vast landscape of computer engineering. My preferences aren't set in stone, and I'm open to discovering new and exciting areas within the field.
+While I have a budding interest in visual computing and graphics programming, I'm still exploring the vast landscape of computer engineering. My preferences aren't set in stone, and I'm open to discovering new and exciting areas within the field.
 
 ## 📫 Get in Touch
 - **Email:** eliasgaudare@gmail.com
